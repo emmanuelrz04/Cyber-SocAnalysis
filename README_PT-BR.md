@@ -1,5 +1,5 @@
-# 🦠 Projeto: Simulação de Phishing e PDF Falso (Fins Educacionais)
-
+# Projeto: Simulação de emails Phishing e PDF contaminado
+---
 ## 📋 Índice
 - [O que é o projeto](#o-que-é-o-projeto)
 - [Estrutura das pastas](#estrutura-das-pastas)  
@@ -23,7 +23,15 @@ Este projeto é uma **demonstração educativa** sobre **segurança digital**, c
 > ⚠️ **ATENÇÃO:** Este projeto é **100% educativo** e não contém nenhum malware real. Todos os exemplos são simulações controladas.
 
 ---
+## Objetivo do projeto
+a
 
+---
+
+## Tecnologias utilizadas
+a
+
+---
 ## 📁 Estrutura das pastas
 ```
 📂 Cyber Soc Analysis/
