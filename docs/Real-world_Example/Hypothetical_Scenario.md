@@ -13,6 +13,4 @@ Dear customer. Our analysis and security system has just detected suspicious tra
 
 Do not send by email! To complete your credential submission, click the button below to be redirected to the Nubank portal. Make sure your information matches your account details.
 
----
 
-**Click to Access**
