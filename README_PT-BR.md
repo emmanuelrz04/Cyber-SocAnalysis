@@ -34,8 +34,14 @@ Este projeto é uma **demonstração educativa** sobre **segurança digital**, c
 │   │   └── 🖼️ print2.png
 │   │
 │   ├── 📂 Real-world_Example/
+│   │   ├── 📂 Virus.PDF/
+│   │   │   ├── 📄 documento_importante.pdf.exe
+│   │   │   ├── 📄 criador.py
+│   │   │   ├── 🖼️ icone_pdf.ico
+│   │   │   └── 📄 instrucoes.txt
+│   │   │
 │   │   ├── 🖼️ email_nubank.png
-│   │   └── 🖼️ executavel_falso.png
+│   │   └── 📄 descricao.md
 │   │
 │   ├── 📄 Attack-chain.md
 │   └── 📄 Threat-Overview.md
