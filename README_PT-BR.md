@@ -24,14 +24,21 @@ Este projeto é uma **demonstração educativa** sobre **segurança digital**, c
 
 ---
 ## Objetivo do projeto
-a
+Este projeto tem como objetivo relatar, exemplificar e explicar como golpes digitais são praticados no ambiente virtual. A análise é baseada em: engenharia social, que abordam tecnicas pscicológicas que invasores contra suas vítimas para as coloca-la em situação de vulnerabilidade; como também a técnica, que aborda a utilização de ferramentas digitais para a criação de malwares e softwares modificados com códigos e funções ilegais.
 
 ---
 
 ## Tecnologias utilizadas
-a
+Para as exemplificações utilizamos: 
+- linguagem de programação python
+- dependências: fpdf2 e pyinstaller
+- Ide: Visual Studio code
 
 ---
+## Como você pode testar os arquivos na prática
+É importante frizar que nenhum dos arquivos mencionados estão 100% livres de virus. Os códigos utilizam a lógica já existente dentro da IDE.
+
+
 ## 📁 Estrutura das pastas
 ```
 📂 Cyber Soc Analysis/
