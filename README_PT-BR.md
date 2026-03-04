@@ -6,7 +6,6 @@
 - [Objetivo do projeto](#objetivo-do-projeto)
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
 - [Como rodar o projeto](#como-rodar-o-projeto)
-- [Resultado](#resultado)
 - [Observações importantes](#observações-importantes)
 ---
 
