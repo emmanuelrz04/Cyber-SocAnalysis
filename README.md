@@ -19,3 +19,19 @@ This project is an educational demonstration about digital security, created to 
 - Practical examples of social engineering
   
 > **WARNING:** ⚠️ This project is 100% educational and contains no real malware. All examples are controlled simulations. ⚠️
+---
+# Project Objective
+
+This project aims to report, exemplify, and explain how digital scams are practiced in the virtual environment. The analysis is based on: social engineering, which addresses psychological techniques that invaders use against their victims to put them in vulnerable situations; as well as the technique, which addresses the use of digital tools to create malware and modified software with illegal codes and functions.
+
+---
+
+# Technologies Used
+For the examples we used:
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![FPDF2](https://img.shields.io/badge/FPDF2-2.7.9-green)
+![PyInstaller](https://img.shields.io/badge/PyInstaller-6.0-yellow)
+![VS Code](https://img.shields.io/badge/IDE-VS%20Code-purple)
+![Resource Hacker](https://img.shields.io/badge/Resource%20Hacker-5.2.7-orange)
+
