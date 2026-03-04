@@ -19,7 +19,7 @@ This project is an educational demonstration about digital security, created to 
 ---
 # Project Objective
 
-This project aims to report, exemplify, and explain how digital scams are practiced in the virtual environment. The analysis is based on: social engineering, which addresses psychological techniques that invaders use against their victims to put them in vulnerable situations; as well as the technique, which addresses the use of digital tools to create malware and modified software with illegal codes and functions.
+This project demonstrates how phishing techniques and file disguise strategies can be used to mislead users. The goal is to analyze these techniques in a controlled and ethical environment, helping to understand how social engineering exploits user behavior in digital environments.
 
 ---
 
