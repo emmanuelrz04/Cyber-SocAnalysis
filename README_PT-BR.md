@@ -1,7 +1,7 @@
 # Projeto: Simulação de emails Phishing e PDF contaminado
 ---
 ## Índice
-- [O que é o projeto](#o-que-é-o-projeto)
+- [O que é o projeto](#descrição-do-projeto)
 - [Estrutura das pastas](#estrutura-das-pastas)  
 - [Objetivo do projeto](#objetivo-do-projeto)
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
@@ -10,7 +10,7 @@
 - [Observações importantes](#observações-importantes)
 ---
 
-# O que é o projeto
+# Descrição do projeto
 
 Este projeto é uma **demonstração educativa** sobre **segurança digital**, criado para apresentar:
 
