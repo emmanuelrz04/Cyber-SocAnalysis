@@ -93,10 +93,10 @@ Para as exemplificações utilizamos:
 - O código perguntará se você quer gerar um arquivo .bat ou .exe
 - Escolha o de sua preferência
 - Depois execute
-- O código mandará uma menssagem de erro na tela simulando um virus
+- O código mandará uma mensagem de erro na tela simulando um virus
 - Se o código não fez isto, por favor verifique o passo a passo e tente novamente
 
-## Passo 6 (Opicional): Caso você quiser colocar um icone personalizado no seu arquivo para deixa-lo mais realista, siga os seguintes passos:
+## Passo 6 (Opcional): Caso você quiser colocar um icone personalizado no seu arquivo para deixa-lo mais realista, siga os seguintes passos:
 - Clique no link para baixar o [Resource Hacker](https://www.angusj.com/resourcehacker/reshacker_setup.exe)
 - Agora baixe o arquivo do icone.ico que está anexado na pasta: Real-world_Example 
 - Execute o Resource Hacker
