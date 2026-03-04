@@ -23,8 +23,7 @@ This project demonstrates how phishing techniques and file disguise strategies c
 
 ---
 
-# Technologies Used
-For the examples we used:
+# Requirements
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![FPDF2](https://img.shields.io/badge/FPDF2-2.7.9-green)
