@@ -40,20 +40,7 @@ For the examples we used:
 - Icon editor: Resource Hacker
 ```
 ---
-# How you can test the files in practice:
 
-It is important to emphasize that none of the mentioned files are 100% virus free. The codes use the logic already existing within the IDE.
-
-## Prerequisites:
-```bash
-- IDE of your choice
-- Python
-- fpdf
-- pyinstaller
-- An available computer
-- Resource Hacker
-```
----
 # Folder Structure
 ```
 📂 Cyber Soc Analysis/
