@@ -50,7 +50,7 @@ Para as exemplificações utilizamos:
 ```
 ---
 
-# Instalação windows
+# Instalação no windows
 ## Passo 1: vamos instalar a IDE (Neste exemplo será utilizado o VSCODE). 
 
 - Clique no link oficial para baixar: [Visual Studio Code](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user) 
@@ -71,6 +71,14 @@ Para as exemplificações utilizamos:
 
 ## Passo 3 (Opicional): Caso você quiser colocar um icone personalizado no seu arquivo para deixa-lo mais realista, siga os seguintes passos:
 - Clique no link para baixar o [Resource Hacker](https://www.angusj.com/resourcehacker/reshacker_setup.exe)
+- Agora baixe o arquivo do icone.ico que está anexado na pasta: Real-world_Example 
+- Execute o Resource Hacker
+- Clique em file
+- Open
+- Escolha o falso PDF que o código python gerou.
+- Ao abrir, clique com o botão direito em icon
+- Depois em replace icon
+- Agora escolha o icone de sua preferência
   
 ## Passo 4: Agora vamos configurar o Visual Studio Code.
 - Entre no VSCODE
@@ -83,7 +91,8 @@ Para as exemplificações utilizamos:
 - Espere baixar e quando concluir clique no mesmo icone que você usou para entrar para fechar a aba
 
 ## Paso 5: Seu ambiente já está quase pronto. Agora você precisa fazer dowload dos arquivos para executar o código.
-- Primeiro, baixe o arquivo
+- Primeiro, baixe o arquivo que estará na pasta Real-world_Example (se tiver dificuldade para encontrar, dê uma olhada na estrutura de pastas do projeto)
+- Agora
 
 ## Passo 6: Depois de baixado as tecnologias necessárias
 
