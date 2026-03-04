@@ -1,6 +1,6 @@
 # Projeto: Simulação de emails Phishing e PDF contaminado
 ---
-## 📋 Índice
+## Índice
 - [O que é o projeto](#o-que-é-o-projeto)
 - [Estrutura das pastas](#estrutura-das-pastas)  
 - [Objetivo do projeto](#objetivo-do-projeto)
@@ -11,16 +11,16 @@
 
 ---
 
-# 🎯 O que é o projeto
+# O que é o projeto
 
 Este projeto é uma **demonstração educativa** sobre **segurança digital**, criado para apresentar:
 
-- ✅ Como funcionam **golpes de phishing** (email falso do Nubank)
-- ✅ Como arquivos maliciosos podem ser **disfarçados de PDF**
-- ✅ A importância de **verificar fontes** antes de clicar em links ou anexos
-- ✅ Exemplos práticos de **engenharia social**
+- Como funcionam **golpes de phishing** (email falso do Nubank)
+- Como arquivos maliciosos podem ser **disfarçados de PDF**
+- A importância de **verificar fontes** antes de clicar em links ou anexos
+- Exemplos práticos de **engenharia social**
 
-> ⚠️ **ATENÇÃO:** Este projeto é **100% educativo** e não contém nenhum malware real. Todos os exemplos são simulações controladas.
+> **ATENÇÃO:** Este projeto é **100% educativo** e não contém nenhum malware real. Todos os exemplos são simulações controladas.
 
 ---
 # Objetivo do projeto
