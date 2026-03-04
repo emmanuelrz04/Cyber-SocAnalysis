@@ -1,7 +1,7 @@
 # Projeto: Simulação de emails Phishing e PDF contaminado
 ---
 ## Índice
-- [O que é o projeto](#descrição-do-projeto)
+- [descrição do projeto](#descrição-do-projeto)
 - [Estrutura das pastas](#estrutura-das-pastas)  
 - [Objetivo do projeto](#objetivo-do-projeto)
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
