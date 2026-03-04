@@ -48,7 +48,14 @@ The project generates:
 - Supporting documentation analyzing the attack flow and technique
 
 ---
+# Additional Documentation
 
+For deeper technical analysis, see:
+
+- docs/Attack-chain.md
+- docs/Threat-Overview.md
+  
+---
 # Folder Structure
 ```
 📂 Cyber Soc Analysis/
