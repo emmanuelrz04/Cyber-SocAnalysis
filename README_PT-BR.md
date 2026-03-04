@@ -41,20 +41,7 @@ Para as exemplificações utilizamos:
 - Editor de icone: Resource Hacker
 ```
 ---
-# Como você pode testar os arquivos na prática:
-É importante frizar que nenhum dos arquivos mencionados estão 100% livres de virus. Os códigos utilizam a lógica já existente dentro da IDE.
 
-## Pré-requisitos:
-```bash
-
-- IDE de sua preferência
-- Python
-- fpdf
-- pyinstaller
-- Um computador disponível
-- Resource Hacker
-```
----
 
 # Estrutura das pastas
 ```
