@@ -2,7 +2,7 @@
 ---
 ## Índice
 - [O que é o projeto](#o-que-é-o-projeto)
-- [Estrutura das pastas](#estrutura-das-pastas)  
+- [Estrutura das pastas](#Estrutura-das-pastas)  
 - [Objetivo do projeto](#objetivo-do-projeto)
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
 - [Como rodar o projeto](#como-rodar-o-projeto)
