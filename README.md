@@ -57,7 +57,7 @@ It is important to emphasize that none of the mentioned files are 100% virus fre
 - Resource Hacker
 ```
 ---
-# Estrutura das pastas
+# Folder Structure
 ```
 📂 Cyber Soc Analysis/
 │
