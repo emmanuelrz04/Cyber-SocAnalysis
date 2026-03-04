@@ -35,3 +35,24 @@ For the examples we used:
 ![VS Code](https://img.shields.io/badge/IDE-VS%20Code-purple)
 ![Resource Hacker](https://img.shields.io/badge/Resource%20Hacker-5.2.7-orange)
 
+
+```bash
+- programming language: python
+- dependencies: fpdf2 and pyinstaller
+- IDE: Visual Studio Code
+- Icon editor: Resource Hacker
+```
+---
+# How you can test the files in practice:
+
+It is important to emphasize that none of the mentioned files are 100% virus free. The codes use the logic already existing within the IDE.
+
+## Prerequisites:
+```bash
+- IDE of your choice
+- Python
+- fpdf
+- pyinstaller
+- An available computer
+- Resource Hacker
+```
