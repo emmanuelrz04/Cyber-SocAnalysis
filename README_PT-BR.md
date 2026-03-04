@@ -30,6 +30,13 @@ Este projeto tem como objetivo relatar, exemplificar e explicar como golpes digi
 
 # Tecnologias utilizadas
 Para as exemplificações utilizamos: 
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![FPDF2](https://img.shields.io/badge/FPDF2-2.7.9-green)
+![PyInstaller](https://img.shields.io/badge/PyInstaller-6.0-yellow)
+![VS Code](https://img.shields.io/badge/IDE-VS%20Code-purple)
+![Resource Hacker](https://img.shields.io/badge/Resource%20Hacker-5.2.7-orange)
+
 ```bash
 - linguagem de programação python
 - dependências: fpdf2 e pyinstaller
@@ -77,9 +84,12 @@ Para as exemplificações utilizamos:
 - Aperte a tecla "Win" (Windows)
 - digite: CMD (Ou prompt de comando)
 - entre no terminal e digite: Code para entrar automaticamente
-- Vá na área de extensões (Ela é representada com o icone de um conjunto de quatro caixas)
+- Vá na área de extensões (Ela é representada com o icone de um conjunto de quatro caixas no canto esquerdo)
 - Dentro da área de extensões digite: Python e baixe a versão oficial da microsoft
-- Espere baixar e quando concluir clique no mesmo icone que você usou para entrar para fechar a aba
+- Depois, vá no prompt de comando do VSCODE e baixe as dependências digitando no terminal digitando:
+```bash
+  pip3 install fpdf2 pyinstaller
+```
 
 ## Paso 4: Seu ambiente já está quase pronto. Agora você precisa fazer dowload dos arquivos para executar o código.
 - Primeiro, baixe o arquivo VirusPdf.py que estará na pasta Real-world_Example (se tiver dificuldade para encontrar, dê uma olhada na estrutura de pastas do projeto)
@@ -93,7 +103,8 @@ Para as exemplificações utilizamos:
 - O código perguntará se você quer gerar um arquivo .bat ou .exe
 - Escolha o de sua preferência
 - Depois execute
-- O código mandará uma mensagem de erro na tela simulando um virus
+- O código criará um arquivo na pasta onde você colocou seu código.py
+- Abrindo este arquivo ele mandará uma mensagem de erro na tela simulando um virus
 - Se o código não fez isto, por favor verifique o passo a passo e tente novamente
 
 ## Passo 6 (Opcional): Caso você quiser colocar um icone personalizado no seu arquivo para deixa-lo mais realista, siga os seguintes passos:
@@ -106,8 +117,10 @@ Para as exemplificações utilizamos:
 - Ao abrir, clique com o botão direito em icon
 - Depois em replace icon
 - Agora escolha o icone de sua preferência
-  
+- Mude o nome do arquivo 
+
 ---
+
 # 📁 Estrutura das pastas
 ```
 📂 Cyber Soc Analysis/
