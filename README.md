@@ -62,21 +62,21 @@ For deeper technical analysis, see:
 │
 ├── 📂 Docs/
 │   ├── 📂 Generic_Examples/
-│   │   ├── 🖼️ print1.png
-│   │   └── 🖼️ print2.png
-│   │
+│   │   ├── 🖼️ email1.png
+│   │   └── 🖼️ email2.png
+│   │   └── 🖼️ email3.png
 │   ├── 📂 Real-world_Example/
-│   │   ├── 📂 Virus.PDF/
-│   │   │   ├── 📄 documento_importante.pdf.exe
-│   │   │   ├── 📄 criador.py
-│   │   │   ├── 🖼️ icone_pdf.ico
-│   │   │   └── 📄 instrucoes.txt
-│   │   │
-│   │   ├── 🖼️ email_nubank.png
-│   │   └── 📄 descricao.md
+│   │   ├── 📄 Fake_Pdf.pdf.exe
+│   │   ├── 📄 VirusPdf.py
+│   │   └── 📄 emailnubank
+│   │     
+│   │    
+│   │   
+│   │   
+│   │   
 │   │
-│   ├── 📄 Attack-chain.md
-│   └── 📄 Threat-Overview.md
+│   ├── 📄 Generic_Example.md
+│   └── 📄 Real-world_Example.md
 │
 ├── 📄 README.md
 └── 📄 README_PT-BR.md                      
