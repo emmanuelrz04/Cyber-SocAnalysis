@@ -68,8 +68,33 @@ Para as exemplificações utilizamos:
 - Depois disto, vá avançando no instalador até finalizar a instalação
 - Agora entre no CMD e digite: python --version
 - Se aparecer o nome python + sua versão, a instalação foi um sucesso
+  
+## Passo 3: Agora vamos configurar o Visual Studio Code.
+- Entre no VSCODE
+- Se o instalador não fez um atalho na área de trabalho e você não sabe onde o executável se encontra: entre no CMD
+- Aperte a tecla "Win" (Windows)
+- digite: CMD (Ou prompt de comando)
+- entre no terminal e digite: Code para entrar automaticamente
+- Vá na área de extensões (Ela é representada com o icone de um conjunto de quatro caixas)
+- Dentro da área de extensões digite: Python e baixe a versão oficial da microsoft
+- Espere baixar e quando concluir clique no mesmo icone que você usou para entrar para fechar a aba
 
-## Passo 3 (Opicional): Caso você quiser colocar um icone personalizado no seu arquivo para deixa-lo mais realista, siga os seguintes passos:
+## Paso 4: Seu ambiente já está quase pronto. Agora você precisa fazer dowload dos arquivos para executar o código.
+- Primeiro, baixe o arquivo VirusPdf.py que estará na pasta Real-world_Example (se tiver dificuldade para encontrar, dê uma olhada na estrutura de pastas do projeto)
+- Armazene este arquivo em um local de sua preferência
+- DICA: Tenha certeza de que escolheu um local de fácil acesso, pois ele será aberto e executado no VSCODE no passo seguinte
+  
+## Passo 5: Depois de baixado as tecnologias necessárias
+- Agora, com o VSCODE aberto, clique em Open File...
+- O código aparecerá na sua tela. Não modifique nada.
+- Rode o código apertando no icone parecido com um play |>
+- O código perguntará se você quer gerar um arquivo .bat ou .exe
+- Escolha o de sua preferência
+- Depois execute
+- O código mandará uma menssagem de erro na tela simulando um virus
+- Se o código não fez isto, por favor verifique o passo a passo e tente novamente
+
+## Passo 6 (Opicional): Caso você quiser colocar um icone personalizado no seu arquivo para deixa-lo mais realista, siga os seguintes passos:
 - Clique no link para baixar o [Resource Hacker](https://www.angusj.com/resourcehacker/reshacker_setup.exe)
 - Agora baixe o arquivo do icone.ico que está anexado na pasta: Real-world_Example 
 - Execute o Resource Hacker
@@ -80,22 +105,6 @@ Para as exemplificações utilizamos:
 - Depois em replace icon
 - Agora escolha o icone de sua preferência
   
-## Passo 4: Agora vamos configurar o Visual Studio Code.
-- Entre no VSCODE
-- Se o instalador não fez um atalho na área de trabalho e você não sabe onde o executável se encontra: entre no CMD
-- Aperte a tecla "Win" (Windows)
-- digite: CMD (Ou prompt de comando)
-- entre no terminal e digite: Code para entrar automaticamente
-- Vá na área de extensões (Ela é representada com o icone de um conjunto de quatro caixas)
-- Dentro da área de extensões digite: Python e baixe a versão oficial da microsoft
-- Espere baixar e quando concluir clique no mesmo icone que você usou para entrar para fechar a aba
-
-## Paso 5: Seu ambiente já está quase pronto. Agora você precisa fazer dowload dos arquivos para executar o código.
-- Primeiro, baixe o arquivo que estará na pasta Real-world_Example (se tiver dificuldade para encontrar, dê uma olhada na estrutura de pastas do projeto)
-- Agora
-
-## Passo 6: Depois de baixado as tecnologias necessárias
-
 ---
 # 📁 Estrutura das pastas
 ```
