@@ -6,7 +6,6 @@
 - [Objetivo do projeto](#objetivo-do-projeto)
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
 - [Como rodar o projeto](#como-você-pode-testar-os-arquivos-na-prática)
-- [Observações importantes](#observações-importantes)
 ---
 
 # Descrição do projeto
