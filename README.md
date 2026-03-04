@@ -40,6 +40,15 @@ For the examples we used:
 - Icon editor: Resource Hacker
 ```
 ---
+# Project Output
+
+The project generates:
+
+- A simulated phishing email example
+- A disguised executable file example (for demonstration)
+- Supporting documentation analyzing the attack flow and technique
+
+---
 
 # Folder Structure
 ```
