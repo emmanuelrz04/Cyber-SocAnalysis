@@ -119,7 +119,7 @@ Para as exemplificações utilizamos:
 
 ---
 
-# 📁 Estrutura das pastas
+# Estrutura das pastas
 ```
 📂 Cyber Soc Analysis/
 │
