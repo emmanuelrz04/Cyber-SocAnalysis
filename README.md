@@ -56,3 +56,29 @@ It is important to emphasize that none of the mentioned files are 100% virus fre
 - An available computer
 - Resource Hacker
 ```
+---
+# Estrutura das pastas
+```
+📂 Cyber Soc Analysis/
+│
+├── 📂 Docs/
+│   ├── 📂 Generic_Examples/
+│   │   ├── 🖼️ print1.png
+│   │   └── 🖼️ print2.png
+│   │
+│   ├── 📂 Real-world_Example/
+│   │   ├── 📂 Virus.PDF/
+│   │   │   ├── 📄 documento_importante.pdf.exe
+│   │   │   ├── 📄 criador.py
+│   │   │   ├── 🖼️ icone_pdf.ico
+│   │   │   └── 📄 instrucoes.txt
+│   │   │
+│   │   ├── 🖼️ email_nubank.png
+│   │   └── 📄 descricao.md
+│   │
+│   ├── 📄 Attack-chain.md
+│   └── 📄 Threat-Overview.md
+│
+├── 📄 README.md
+└── 📄 README_PT-BR.md                      
+```
