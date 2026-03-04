@@ -62,11 +62,25 @@ Agora, o próximo passo é instalar o python.
 - Depois disto, vá avançando no instalador até finalizar a instalação
 - Agora entre no CMD e digite: python --version
 - Se aparecer o nome python + sua versão, a instalação foi um sucesso
+
+(Opicional) Caso você quiser colocar um icone personalizado no seu arquivo para deixa-lo mais realista, siga os seguintes passos:
+- Clique no link para baixar o [Resource Hacker](https://www.angusj.com/resourcehacker/reshacker_setup.exe)
   
 Agora vamos configurar o Visual Studio Code.
 - Entre no VSCODE
 - Se o instalador não fez um atalho na área de trabalho e você não sabe onde o executável se encontra: entre no CMD
-- 
+- Aperte a tecla "Win" (Windows)
+- digite: CMD (Ou prompt de comando)
+- entre no terminal e digite: Code para entrar automaticamente
+- Vá na área de extensões (Ela é representada com o icone de um conjunto de quatro caixas)
+- Dentro da área de extensões digite: Python e baixe a versão oficial da microsoft
+- Espere baixar e quando concluir clique no mesmo icone que você usou para entrar para fechar a aba
+
+Seu ambiente já está quase pronto. Agora você precisa fazer dowload dos arquivos para executar o código.
+- Primeiro, baixe o arquivo
+
+Depois de baixado as tecnologias necessárias
+
 ---
 ## 📁 Estrutura das pastas
 ```
