@@ -11,7 +11,7 @@
 
 ---
 
-## 🎯 O que é o projeto
+# 🎯 O que é o projeto
 
 Este projeto é uma **demonstração educativa** sobre **segurança digital**, criado para apresentar:
 
@@ -23,12 +23,12 @@ Este projeto é uma **demonstração educativa** sobre **segurança digital**, c
 > ⚠️ **ATENÇÃO:** Este projeto é **100% educativo** e não contém nenhum malware real. Todos os exemplos são simulações controladas.
 
 ---
-## Objetivo do projeto
+# Objetivo do projeto
 Este projeto tem como objetivo relatar, exemplificar e explicar como golpes digitais são praticados no ambiente virtual. A análise é baseada em: engenharia social, que abordam tecnicas pscicológicas que invasores contra suas vítimas para as coloca-la em situação de vulnerabilidade; como também a técnica, que aborda a utilização de ferramentas digitais para a criação de malwares e softwares modificados com códigos e funções ilegais.
 
 ---
 
-## Tecnologias utilizadas
+# Tecnologias utilizadas
 Para as exemplificações utilizamos: 
 ```bash
 - linguagem de programação python
@@ -36,7 +36,7 @@ Para as exemplificações utilizamos:
 - Ide: Visual Studio code
 ```
 ---
-## Como você pode testar os arquivos na prática:
+# Como você pode testar os arquivos na prática:
 É importante frizar que nenhum dos arquivos mencionados estão 100% livres de virus. Os códigos utilizam a lógica já existente dentro da IDE.
 
 ## Pré-requisitos:
@@ -50,15 +50,17 @@ Para as exemplificações utilizamos:
 ```
 ---
 
-## Instalação windows
-Primeiro, vamos instalar a IDE (Neste exemplo será utilizado o VSCODE). 
+# Instalação windows
+## Passo 1: vamos instalar a IDE (Neste exemplo será utilizado o VSCODE). 
+
 - Clique no link oficial para baixar: [Visual Studio Code](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user) 
 - Espere o arquivo baixar
 - Depois de baixado, execute ele
 - Vá avançando no instalador até fazer a instalação dele por completo
 - Depois de baixado, abra ele para verificar se a instalação ocorreu corretamente
   
-Agora, o próximo passo é instalar o python.
+## Passo 2: instalar o python.
+
 - Clique no link oficial para baixar [Python](https://www.python.org/ftp/python/3.14.3/python-3.14.3-amd64.exe)
 - Espere o arquivo baixar
 - Depois de baixado, execute ele
@@ -67,10 +69,10 @@ Agora, o próximo passo é instalar o python.
 - Agora entre no CMD e digite: python --version
 - Se aparecer o nome python + sua versão, a instalação foi um sucesso
 
-(Opicional) Caso você quiser colocar um icone personalizado no seu arquivo para deixa-lo mais realista, siga os seguintes passos:
+## Passo 3 (Opicional): Caso você quiser colocar um icone personalizado no seu arquivo para deixa-lo mais realista, siga os seguintes passos:
 - Clique no link para baixar o [Resource Hacker](https://www.angusj.com/resourcehacker/reshacker_setup.exe)
   
-Agora vamos configurar o Visual Studio Code.
+## Passo 4: Agora vamos configurar o Visual Studio Code.
 - Entre no VSCODE
 - Se o instalador não fez um atalho na área de trabalho e você não sabe onde o executável se encontra: entre no CMD
 - Aperte a tecla "Win" (Windows)
@@ -80,13 +82,13 @@ Agora vamos configurar o Visual Studio Code.
 - Dentro da área de extensões digite: Python e baixe a versão oficial da microsoft
 - Espere baixar e quando concluir clique no mesmo icone que você usou para entrar para fechar a aba
 
-Seu ambiente já está quase pronto. Agora você precisa fazer dowload dos arquivos para executar o código.
+## Paso 5: Seu ambiente já está quase pronto. Agora você precisa fazer dowload dos arquivos para executar o código.
 - Primeiro, baixe o arquivo
 
-Depois de baixado as tecnologias necessárias
+## Passo 6: Depois de baixado as tecnologias necessárias
 
 ---
-## 📁 Estrutura das pastas
+# 📁 Estrutura das pastas
 ```
 📂 Cyber Soc Analysis/
 │
