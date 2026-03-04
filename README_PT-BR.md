@@ -34,6 +34,7 @@ Para as exemplificações utilizamos:
 - linguagem de programação python
 - dependências: fpdf2 e pyinstaller
 - Ide: Visual Studio code
+- Editor de icone: Resource Hacker
 ```
 ---
 # Como você pode testar os arquivos na prática:
@@ -47,6 +48,7 @@ Para as exemplificações utilizamos:
 - fpdf
 - pyinstaller
 - Um computador disponível
+- Resource Hacker
 ```
 ---
 
