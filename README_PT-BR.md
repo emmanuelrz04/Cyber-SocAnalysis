@@ -48,14 +48,14 @@ Para as exemplificações utilizamos:
 
 ## Instalação windows
 Primeiro, vamos instalar a IDE (Neste exemplo será utilizado o VSCODE). 
-- Clique no link oficial para baixar: [https://code.visualstudio.com/](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user) 
+- Clique no link oficial para baixar: [Visual Studio Code](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user) 
 - Espere o arquivo baixar
 - Depois de baixado, execute ele
 - Vá avançando no instalador até fazer a instalação dele por completo
 - Depois de baixado, abra ele para verificar se a instalação ocorreu corretamente
   
 Agora, o próximo passo é instalar o python.
-- Clique no link oficial para baixar [https://www.python.org/](https://www.python.org/ftp/python/3.14.3/python-3.14.3-amd64.exe)
+- Clique no link oficial para baixar [Python](https://www.python.org/ftp/python/3.14.3/python-3.14.3-amd64.exe)
 - Espere o arquivo baixar
 - Depois de baixado, execute ele
 - Durante a instalação, na primeira tela do instalador, você deve marcar para SIM (☑️ Add Python to PATH)
