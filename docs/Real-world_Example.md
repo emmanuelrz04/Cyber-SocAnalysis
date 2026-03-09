@@ -4,13 +4,33 @@ Imagine que você está navegando normalmente pelo seu email, e que de repente v
 # Pontos essênciais
 Para se amlisar como tais métodos de extração de informações sigilosas são realizados, é necessário se entender os fundamentos de como tais ataques acontecem na pŕatica. Os métodos podem se variar de acordo com o objetivo e intenções do invazor, porém em sua maioria eles contam com os seguintes pontos.
 
-- sistemas digitais armazenam dados valiosos
-- atacantes usam software malicioso para obter acesso ou lucro
-- malware é uma das ferramentas mais comuns em ataques cibernéticos
-- engenharia social é a maior ferramenta de invazores e pessoas mal intencionadas
+- Exploram falhas de sistemas digitais que armazenam dados valiosos
+- Utilizam software malicioso para onterem lucro
+- Malware é uma das ferramentas mais comuns em ataques cibernéticos
+- Engenharia social é a maior ferramenta de invazores e pessoas mal intencionadas
 
 # Afinal, como um malware funciona?
-Depois de infectado o sistema
+Depois de infectado o sistema, ele começa a executar comandos em segundo plano sem o consentimento do usuário através de códigos do painel de controle do sistema para se extrair dados importantes das vítimas. O processo pode ocorrer de maneira silenciosa e demorar dias em execução. Os tipos de malwares podem assumir diferentes tipos, sendo os principais: 
+
+## Trojan (Cavalo de Troia)
+  
+Esse tipo de malware se disfarça como um programa legítimo. Quando o usuário instala o software, ele abre uma porta de acesso remoto para o invasor, permitindo controle parcial ou total do sistema.
+
+## Ransomware
+
+Esse malware criptografa arquivos importantes do computador, como documentos, fotos e bancos de dados. Depois disso, o invasor exige um pagamento para liberar a chave de descriptografia.
+
+## Spyware
+
+Projetado para espionar o usuário. Pode registrar atividades do computador, capturar senhas e coletar informações pessoais sem que a vítima perceba.
+
+## Keylogger
+
+Um tipo específico de spyware que registra tudo que é digitado no teclado. Dessa forma, o invasor pode obter logins, senhas bancárias e outros dados confidenciais.
+
+## Worms (vermes)
+
+Diferente de outros malwares, worms conseguem se espalhar automaticamente pela rede, infectando vários computadores sem interação direta do usuário.
 
 
 ## Common Threats
