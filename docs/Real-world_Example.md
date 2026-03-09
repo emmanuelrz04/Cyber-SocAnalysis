@@ -1,16 +1,52 @@
-# Exemplo real
-Imagine que você está navegando normalmente pelo seu email, e que de repente você se depara com um suposto email da nubank sobre uma atividade suspeita em sua conta. Ao clicar vocẽ nota que há uma mensagem dizendo que seus dados foram congelados e que eles só seriam liberados mediante processos que incluem baixar documentos e arquivos suspeitos. A primeira fase da invazão começa pela mente do usuário por meio da imposição de medo e urgência. Depois de instabilizado, a vítima clica no link ou baixa o arquivo solicitado, que é aí que o malware entra em ação, invadindo os demais arquivos e danificando sistemas do dispositivo afetado.
+# Real-World Example
+Imagine you are checking your email normally when you suddenly receive a message that appears to come from Nubank reporting suspicious activity in your account. The email states that your account has been temporarily frozen and that you must review attached documents to restore access. The message creates a sense of urgency and fear, encouraging you to act quickly. This is the first phase of many cyberattacks: social engineering. The attacker manipulates the user's emotions to increase the chances that the victim will click on a malicious link or download an infected file. Once the victim downloads or opens the attachment (often disguised as a PDF or document), malicious code may execute on the system. At this point, the malware begins its operation, installing itself on the device and allowing the attacker to perform unauthorized actions.
 
-# Pontos essênciais
-Para se amlisar como tais métodos de extração de informações sigilosas são realizados, é necessário se entender os fundamentos de como tais ataques acontecem na pŕatica. Os métodos podem se variar de acordo com o objetivo e intenções do invazor, porém em sua maioria eles contam com os seguintes pontos.
+# Essential Concepts
+To understand how attackers extract sensitive information, it is necessary to understand the fundamental mechanisms behind malware-based attacks. Although attack techniques vary depending on the attacker’s objectives, most attacks share several common characteristics:
 
-- Exploram falhas de sistemas digitais que armazenam dados valiosos
-- Utilizam software malicioso para onterem lucro
-- Malware é uma das ferramentas mais comuns em ataques cibernéticos
-- Engenharia social é a maior ferramenta de invazores e pessoas mal intencionadas
+- They exploit vulnerabilities in digital systems that store valuable data
+- They rely on malicious software to gain financial or strategic benefits
+- Malware is one of the most common tools used in cyberattacks
+- Social engineering remains one of the most effective techniques used by attackers
 
-# Afinal, como um malware funciona?
-Depois de infectado o sistema, ele começa a executar comandos em segundo plano sem o consentimento do usuário através de códigos do painel de controle do sistema para se extrair dados importantes das vítimas. O processo pode ocorrer de maneira silenciosa e demorar dias em execução. Os tipos de malwares podem assumir diferentes tipos, sendo os principais: 
+# How Malware Actually Works
+Once a system is infected, malware can execute processes without the user's knowledge or consent. Instead of directly damaging files immediately, most modern malware performs several steps in sequence in order to maintain control over the system and achieve its objective.
+
+## Delivery
+
+The malware first needs to reach the target system. Common delivery methods include:
+
+- phishing emails
+
+- malicious downloads
+
+- compromised websites
+
+- infected USB devices
+
+- exploitation of software vulnerabilities
+
+## Execution
+
+After delivery, the malicious code must be executed. This can happen when:
+
+- the user opens an infected file
+
+- a vulnerability is exploited automatically
+
+- a seemingly legitimate program runs hidden malicious code
+
+## Installation
+
+The malware then attempts to install itself on the system. This may involve:
+
+- copying malicious files into system directories
+
+- modifying system configuration files
+
+- creating hidden processes
+
+- The goal is to ensure that the malware remains active.
 
 ## Trojan (Cavalo de Troia)
   
