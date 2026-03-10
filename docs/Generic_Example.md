@@ -27,6 +27,45 @@ The goal of the attacker is to trick the victim into:
 - Executing hidden payloads
 
 ---
+# Generic Example
+
+Below are simulated phishing email examples used for educational analysis.
+
+## Example 1 – Fake Security Alert
+
+![Phishing Email Example 1](Generic_Examples/email1.png)
+
+This email uses **urgency and authority impersonation** to pressure the user into opening a malicious attachment.
+
+---
+
+## Example 2 – Account Verification Request
+
+![Phishing Email Example 2](Generic_Examples/email2.png)
+
+This example attempts to convince the user to **verify their account through a malicious link** leading to a fake authentication page.
+
+---
+
+## Example 3 – Suspicious Attachment Notification
+
+![Phishing Email Example 3](Generic_Examples/email3.png)
+
+The attacker disguises a malicious file as a document that supposedly requires immediate attention.
+
+### File Location (Project Structure)
+
+```bash
+Cyber-SocAnalysis/
+│
+└── Docs/
+    │
+    └── Generic_Examples/
+        ├── email1.png
+        ├── email2.png
+        └── email3.png
+```
+---
 
 # Common Threat Techniques
 
