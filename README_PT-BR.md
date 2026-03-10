@@ -52,7 +52,7 @@ O objetivo é analisar essas técnicas em um **ambiente controlado e ético**, a
 ---
 # Resultado do Projeto
 
-## O projeto realiza:
+## O projeto gera:
 
 - Um exemplo simulado de **email de phishing**
 - Um exemplo de **arquivo executável disfarçado** (apenas para demonstração)
