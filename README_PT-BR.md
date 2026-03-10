@@ -50,9 +50,9 @@ O objetivo é analisar essas técnicas em um **ambiente controlado e ético**, a
 - editor de ícones: Resource Hacker
 ```
 ---
-Resultado do projeto
+# Resultado do projeto
 
-O projeto realiza:
+## O projeto realiza:
 
 - Um exemplo simulado de **email de phishing**
 - Um exemplo de **arquivo executável disfarçado** (apenas para demonstração)
