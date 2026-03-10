@@ -50,13 +50,13 @@ O objetivo é analisar essas técnicas em um **ambiente controlado e ético**, a
 - editor de ícones: Resource Hacker
 ```
 ---
-Project Output
+Resultado do projeto
 
-The project generates:
+O projeto realiza:
 
-    A simulated phishing email example
-    A disguised executable file example (for demonstration)
-    Supporting documentation analyzing the attack flow and technique
+- Um exemplo simulado de **email de phishing**
+- Um exemplo de **arquivo executável disfarçado** (apenas para demonstração)
+- Documentação de apoio analisando **o fluxo do ataque e as técnicas utilizadas**
 
 
 ---
