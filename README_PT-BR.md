@@ -61,7 +61,7 @@ Para uma análise técnica mais aprofundada, consulte:
 <div align="center">
 
 # Autores
-## Emmanuel Ricardo Arajo
+## Emmanuel Araujo
 
 Entusiasta de cibersegurança, com foco em análise de SOC, detecção de phishing e modelagem de cadeias de ataque. Interessado em segurança defensiva, inteligência de ameaças e desenvolvimento de sistemas seguros.
 
