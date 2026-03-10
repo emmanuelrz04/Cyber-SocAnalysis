@@ -77,26 +77,23 @@ Interested in **defensive security, threat intelligence and secure system design
 ---
 # Folder Structure
 ```
-📂 Cyber Soc Analysis/
+📂 Cyber Soc-Analysis/
 │
 ├── 📂 Docs/
+│   │
 │   ├── 📂 Generic_Examples/
 │   │   ├── 🖼️ email1.png
-│   │   └── 🖼️ email2.png
+│   │   ├── 🖼️ email2.png
 │   │   └── 🖼️ email3.png
+│   │
 │   ├── 📂 Real-world_Example/
 │   │   ├── 📄 Fake_Pdf.pdf.exe
 │   │   ├── 📄 VirusPdf.py
 │   │   └── 📄 emailnubank
-│   │     
-│   │    
-│   │   
-│   │   
-│   │   
 │   │
 │   ├── 📄 Generic_Example.md
 │   └── 📄 Real-world_Example.md
 │
 ├── 📄 README.md
-└── 📄 README_PT-BR.md                      
+└── 📄 README_PT-BR.md                
 ```
