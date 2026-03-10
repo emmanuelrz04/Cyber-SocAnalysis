@@ -26,7 +26,7 @@ import time
 
 # Mensagem em janela pop-up (funciona sem terminal)
 ctypes.windll.user32.MessageBoxW(0,
-    "⚠️ ATENÇÃO: PDF FALSO DETECTADO! ⚠️\\n\\n"
+    " ATENÇÃO: PDF FALSO DETECTADO! \\n\\n"
     "Este arquivo parecia ser um PDF, mas é um executável.\\n\\n"
     "ISSO É APENAS UMA SIMULAÇÃO EDUCATIVA!\\n"
     "Nenhum vírus real foi ativado.",
@@ -171,3 +171,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
