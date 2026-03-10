@@ -18,7 +18,7 @@ This project is an educational demonstration about digital security, created to 
 - The importance of checking sources before clicking on links or attachments
 - Practical examples of social engineering
   
-> **WARNING:** ⚠️ This project is 100% educational and contains no real malware. All examples are controlled simulations. 
+> **WARNING:** |⚠️| This project is 100% educational and contains no real malware. All examples are controlled simulations. 
 ---
 # Project Objective
 
