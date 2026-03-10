@@ -1,4 +1,4 @@
-# Projeto: Simulação de Phishing e PDF Contaminado
+# Projeto: Simulação de Email de Phishing e PDF Contaminado
 
 ---
 
@@ -7,6 +7,8 @@
 - [Descrição do Projeto](#descrição-do-projeto)
 - [Objetivo do Projeto](#objetivo-do-projeto)
 - [Requisitos](#requisitos)
+- [Resultado do Projeto](#resultado-do-projeto)
+- [Documentação Adicional](#documentação-adicional)
 - [Autores](#autores)
 - [Estrutura de Pastas](#estrutura-de-pastas)
 
@@ -19,24 +21,17 @@ Este projeto é uma **demonstração educacional sobre segurança digital**, cri
 - Como golpes de **phishing** funcionam (exemplo de email falso simulando o Nubank)
 - Como arquivos maliciosos podem ser **disfarçados como PDFs**
 - A importância de **verificar fontes antes de clicar em links ou abrir anexos**
-- Exemplos práticos de **engenharia social aplicada a ataques digitais**
+- Exemplos práticos de **engenharia social**
 
-> **AVISO:** ⚠️ Este projeto é **100% educacional** e **não contém malware real**. Todos os exemplos são **simulações controladas** com finalidade didática.
+> **AVISO:** ⚠️ Este projeto é **100% educacional** e **não contém malware real**. Todos os exemplos são **simulações controladas**.
 
 ---
 
 # Objetivo do Projeto
 
-Este projeto demonstra como **técnicas de phishing** e **estratégias de disfarce de arquivos** podem ser utilizadas para enganar usuários.
+Este projeto demonstra como **técnicas de phishing** e **estratégias de disfarce de arquivos** podem ser usadas para enganar usuários.
 
-O objetivo é analisar essas técnicas em um **ambiente controlado e ético**, ajudando a compreender como a **engenharia social explora o comportamento humano em ambientes digitais**.
-
-A proposta é fornecer um **exemplo prático de análise de ataque**, útil para estudos de:
-
-- Segurança da informação
-- Engenharia social
-- Análise de ameaças
-- Conscientização em segurança digital
+O objetivo é analisar essas técnicas em um **ambiente controlado e ético**, ajudando a compreender como a **engenharia social explora o comportamento dos usuários em ambientes digitais**.
 
 ---
 
@@ -49,10 +44,10 @@ A proposta é fornecer um **exemplo prático de análise de ataque**, útil para
 ![Resource Hacker](https://img.shields.io/badge/Resource%20Hacker-5.2.7-orange)
 
 ```bash
-- Linguagem de programação: Python
-- Dependências: fpdf2 e pyinstaller
-- IDE utilizada: Visual Studio Code
-- Editor de ícones: Resource Hacker
+- linguagem de programação: python
+- dependências: fpdf2 e pyinstaller
+- IDE: Visual Studio Code
+- editor de ícones: Resource Hacker
 ```
 ---
 
