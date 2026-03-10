@@ -48,25 +48,25 @@ The malware then attempts to install itself on the system. This may involve:
 
 - The goal is to ensure that the malware remains active.
 
-## Trojan (Cavalo de Troia)
+## Trojan (Cavalo de troia)
   
-Esse tipo de malware se disfarça como um programa legítimo. Quando o usuário instala o software, ele abre uma porta de acesso remoto para o invasor, permitindo controle parcial ou total do sistema.
+This type of malware disguises itself as a legitimate program. When the user installs the software, it opens a remote access backdoor for the attacker, enabling partial or total control of the system.
 
 ## Ransomware
 
-Esse malware criptografa arquivos importantes do computador, como documentos, fotos e bancos de dados. Depois disso, o invasor exige um pagamento para liberar a chave de descriptografia.
+This malware encrypts important files on the computer, such as documents, photos, and databases. Subsequently, the attacker demands a payment to release the decryption key.
 
 ## Spyware
 
-Projetado para espionar o usuário. Pode registrar atividades do computador, capturar senhas e coletar informações pessoais sem que a vítima perceba.
+Designed to spy on the user. It can record computer activities, capture passwords, and collect personal information without the victim's awareness.
 
 ## Keylogger
 
-Um tipo específico de spyware que registra tudo que é digitado no teclado. Dessa forma, o invasor pode obter logins, senhas bancárias e outros dados confidenciais.
+A specific type of spyware that records everything typed on the keyboard. In this manner, the attacker can obtain login credentials, banking passwords, and other sensitive data.
 
 ## Worms (vermes)
 
-Diferente de outros malwares, worms conseguem se espalhar automaticamente pela rede, infectando vários computadores sem interação direta do usuário.
+Unlike other types of malware, worms can spread automatically across a network, infecting multiple computers without direct user interaction.
 
 # Como o malware se mantém no sistema
 
