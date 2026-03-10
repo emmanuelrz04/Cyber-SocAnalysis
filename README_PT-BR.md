@@ -57,6 +57,24 @@ A proposta é fornecer um **exemplo prático de análise de ataque**, útil para
 ```
 ---
 
+# Authors
+## Emmanuel Ricardo Arajo
+
+Cybersecurity enthusiast focused on **SOC Analysis, phishing detection and attack chain modeling**.  
+Interested in **defensive security, threat intelligence and secure system design**.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/emmanuel-araujo-416203380)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:emmanuelricardo04@gmail.com)
+
+</div>
+  
+---
+
+---
+
 # Estrutura de pastas:
 ```bash
 
