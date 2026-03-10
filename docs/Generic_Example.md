@@ -1,73 +1,220 @@
 # Attack Chain Analysis – Phishing Scenario
 
-This project applies the Cyber Kill Chain model to analyze a phishing-based attack from a SOC (Security Operations Center) perspective. The objective is to understand how the attack progresses and identify detection opportunities across different stages of the attack lifecycle.
+This project analyzes a phishing-based attack using the **Cyber Kill Chain** model from a **SOC (Security Operations Center)** perspective.  
+The objective is to understand how an attack progresses through different stages and to identify **potential detection points and indicators of compromise (IOCs)** throughout the attack lifecycle.
+
+This section provides a **generic example** intended for educational analysis rather than representing a specific real-world incident.
 
 ---
 
-## Common Threats
+# Generic Example
 
-- Phishing emails impersonating legitimate companies  
-- Spoofed sender domains  
-- Fake login pages  
-- Encoded malicious attachments (e.g., base64 files)  
-- Embedded remote tracking content  
+An attacker sends a phishing email impersonating a trusted service.  
+The message encourages the victim to interact with malicious content such as a link or attachment.
 
----
+Example structure of a phishing message:
 
-## Attack Stages (Cyber Kill Chain Model)
+Subject: Security Notification  
+Sender: alerts@trusted-service-support.com  
+Attachment: verification_document.b64  
+Link: https://trusted-service-support.com/login
 
-# Reconnaissance
+The goal of the attacker is to trick the victim into:
 
-## Collection of publicly available information:
-  - Email addresses  
-  - Organizational structure  
-  - Service providers  
-## Sources may include:
-  - Social media  
-  - Data leaks  
-  - Automated harvesting tools  
+- Opening a malicious attachment
+- Visiting a fake authentication page
+- Providing login credentials
+- Executing hidden payloads
 
 ---
 
-# Weaponization
+# Common Threat Techniques
 
-## Creation of the phishing artifact:
-  - Spoofed email template  
-  - Fake authentication page  
-  - Malicious or encoded attachment  
-  - Remote tracking mechanisms  
+Phishing attacks commonly rely on several deception techniques:
 
----
+- Emails impersonating legitimate organizations
+- Spoofed sender domains
+- Fake authentication portals
+- Encoded attachments (such as base64 files)
+- Embedded remote tracking elements
+- Urgent language designed to pressure victims
 
-# Delivery
-
-## Transmission of the phishing email to the victim. Indicators of compromise:
-  - Suspicious or recently registered domains  
-  - Sender/domain mismatches  
-  - Encoded attachments  
-  - Reputation-based alerts  
-
-## SOC monitoring focus:
-  - Email gateway logs  
-  - Domain validation checks  
+These techniques combine **technical manipulation and social engineering**.
 
 ---
 
-# Exploitation
+# Attack Stages (Cyber Kill Chain Model)
 
-## Victim interaction with malicious content:
-  - Clicking links  
-  - Downloading attachments  
-  - Submitting credentials  
+## Reconnaissance
 
-## Detection opportunities:
-  - Abnormal login attempts  
-  - Access from unfamiliar IP addresses  
-  - Logins outside behavioral patterns  
+In this stage, attackers collect publicly available information about the target organization.
+
+### Information commonly gathered
+
+- Employee email addresses
+- Organizational structure
+- External service providers
+- Department roles
+
+### Possible sources
+
+- Social media platforms
+- Public company websites
+- Data breach repositories
+- Automated harvesting tools
+
+### SOC perspective
+
+Reconnaissance is difficult to detect but may involve:
+
+- Large-scale email enumeration
+- Automated scraping behavior
+- Suspicious directory queries
 
 ---
 
-# Installation
+## Weaponization
 
-- Possible malware execution and persistence.
-- Monit
+The attacker prepares the malicious artifact used in the phishing campaign.
+
+### Possible components
+
+- Spoofed email template
+- Fake login page
+- Encoded malicious attachment
+- Tracking elements to monitor victim interaction
+
+Example placeholder payload structure:
+
+encoded_payload_example_base64
+
+### Security monitoring focus
+
+- Attachment scanning
+- Sandbox analysis
+- File reputation checks
+
+---
+
+## Delivery
+
+The phishing artifact is delivered to the victim through email or other communication channels.
+
+### Indicators of compromise
+
+- Recently registered domains
+- Sender/domain mismatch
+- Encoded attachments
+- Unusual sender infrastructure
+
+### SOC monitoring points
+
+- Email gateway logs
+- Domain reputation checks
+- DNS monitoring
+- Attachment sandbox results
+
+---
+
+## Exploitation
+
+The exploitation phase begins when the victim interacts with the malicious content.
+
+Possible victim actions include:
+
+- Clicking a malicious link
+- Opening an attachment
+- Entering credentials into a fake login portal
+- Executing a disguised file
+
+Example placeholder command or script:
+
+malicious_execution_placeholder
+
+### Detection opportunities
+
+Security teams may detect:
+
+- Abnormal login attempts
+- Authentication from unfamiliar IP addresses
+- Access outside normal behavior patterns
+- Suspicious browser redirections
+
+---
+
+## Installation
+
+If the attack involves malware, the attacker attempts to establish persistence within the system.
+
+Possible attacker activities:
+
+- Installing malware
+- Creating scheduled tasks
+- Modifying startup behavior
+- Establishing command-and-control communication
+
+Example placeholder persistence mechanism:
+
+persistence_script_placeholder
+
+### Defensive monitoring
+
+SOC teams typically monitor for:
+
+- Unexpected processes
+- System configuration changes
+- Suspicious outbound connections
+- Endpoint detection alerts
+
+---
+
+# Indicators of Compromise (IOCs)
+
+During investigation, analysts may observe indicators such as:
+
+| Indicator Type | Example |
+|---|---|
+Suspicious domain | trusted-service-support.com |
+Encoded attachment | verification_document.b64 |
+User behavior anomaly | login from unusual location |
+Email anomaly | sender/domain mismatch |
+
+These indicators allow analysts to **correlate events across multiple security systems**.
+
+---
+
+# SOC Detection Strategy
+
+SOC analysts attempt to detect the attack at multiple stages:
+
+| Stage | Possible Detection Method |
+|---|---|
+Reconnaissance | monitoring enumeration behavior |
+Weaponization | attachment sandbox analysis |
+Delivery | email gateway alerts |
+Exploitation | abnormal authentication detection |
+Installation | endpoint detection alerts |
+
+Detection becomes more reliable when **multiple signals are correlated across systems**.
+
+---
+
+# Mitigation Strategies
+
+Organizations can reduce phishing risk through multiple defensive measures:
+
+- Email filtering and anti-phishing gateways
+- Domain reputation monitoring
+- Multi-factor authentication (MFA)
+- Security awareness training
+- Attachment sandboxing
+- Endpoint detection and response tools
+
+Human awareness is particularly important because phishing attacks frequently rely on **user interaction**.
+
+---
+
+# Conclusion
+
+This generic analysis demonstrates how a phishing attack progresses through the **Cyber Kill Chain**.  
+By identifying detection opportunities at each stage, SOC teams can improve their ability to **detect, investigate, and respond to phishing incidents before they escalate into full system compromise**.
