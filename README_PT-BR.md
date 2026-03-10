@@ -57,6 +57,9 @@ A proposta é fornecer um **exemplo prático de análise de ataque**, útil para
 ```
 ---
 
+
+<div align="center">
+
 # Authors
 ## Emmanuel Ricardo Arajo
 
