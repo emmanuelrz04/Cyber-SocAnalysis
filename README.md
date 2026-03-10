@@ -56,6 +56,24 @@ For deeper technical analysis, see:
 - docs/Real-world_Example/
   
 ---
+
+<div align="center">
+
+# Authors
+## Emmanuel Ricardo Arajo
+
+Cybersecurity enthusiast focused on **SOC Analysis, phishing detection and attack chain modeling**.  
+Interested in **defensive security, threat intelligence and secure system design**.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/emmanuel-araujo-416203380)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:emmanuelricardo04@gmail.com)
+
+</div>
+  
+---
 # Folder Structure
 ```
 📂 Cyber Soc Analysis/
