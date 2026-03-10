@@ -63,7 +63,7 @@ For deeper technical analysis, see:
 <div align="center">
 
 # Authors
-## Emmanuel Ricardo Arajo
+## Emmanuel Araujo
 
 Cybersecurity enthusiast focused on **SOC Analysis, phishing detection and attack chain modeling**.  
 Interested in **defensive security, threat intelligence and secure system design**.
