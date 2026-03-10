@@ -10,13 +10,13 @@ def criar_exe_falso():
     """Cria um executável .exe de verdade e renomeia para .pdf.exe"""
     
     print("\n" + "="*60)
-    print(" 🔧 CRIANDO PDF FALSO (EXECUTÁVEL) ".center(60, "="))
+    print(" CRIANDO PDF FALSO (EXECUTÁVEL) ".center(60, "="))
     print("="*60)
     
     try:
         subprocess.run(["pyinstaller", "--version"], capture_output=True)
     except FileNotFoundError:
-        print("\n❌ PyInstaller não encontrado!")
+        print("\n PyInstaller não encontrado!")
         print("Instalando automaticamente...")
         subprocess.run([sys.executable, "-m", "pip", "install", "pyinstaller"])
     
@@ -30,7 +30,7 @@ ctypes.windll.user32.MessageBoxW(0,
     "Este arquivo parecia ser um PDF, mas é um executável.\\n\\n"
     "ISSO É APENAS UMA SIMULAÇÃO EDUCATIVA!\\n"
     "Nenhum vírus real foi ativado.",
-    "🚨 ALERTA DE SEGURANÇA 🚨",
+    "ALERTA DE SEGURANÇA ",
     0x30 | 0x1)
 
 # Pequena pausa
@@ -47,7 +47,7 @@ except:
     with open("temp_virus.py", "w", encoding='utf-8') as f:
         f.write(codigo_virus)
     
-    print("\n📦 Compilando executável (aguarde)...")
+    print("\n Compilando executável (aguarde)...")
     result = subprocess.run([
         "pyinstaller", 
         "--onefile",           
@@ -74,21 +74,21 @@ except:
                 pass
         
         print("\n" + "="*60)
-        print(" ✅ SUCESSO! ARQUIVO CRIADO! ".center(60, "="))
+        print("  SUCESSO! ARQUIVO CRIADO! ".center(60, "="))
         print("="*60)
-        print(f"\n📁 Arquivo: {nome_final}")
-        print(f"📍 Local: {os.path.abspath(nome_final)}")
-        print(f"📊 Tamanho: {os.path.getsize(nome_final)} bytes")
+        print(f"\n Arquivo: {nome_final}")
+        print(f" Local: {os.path.abspath(nome_final)}")
+        print(f" Tamanho: {os.path.getsize(nome_final)} bytes")
         
         print("\n" + "🎯 COMO ENGANAR LEIGOS".center(60, "-"))
         print("""
-1️⃣  No Windows, as extensões ficam OCULTAS por padrão
+1️  No Windows, as extensões ficam OCULTAS por padrão
     A vítima vai ver apenas: documento_importante.pdf
     
-2️⃣  O ícone ainda é de executável (amarelo/azul)
+2️  O ícone ainda é de executável (amarelo/azul)
     Para melhorar: troque o ícone por um de PDF!
     
-3️⃣  Quando a vítima abrir:
+3️  Quando a vítima abrir:
     • Uma janela pop-up aparece com aviso
     • Depois abre um PDF verdadeiro (disfarce)
         """)
@@ -128,8 +128,8 @@ start https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf
     with open(nome, "w", encoding='utf-8') as f:
         f.write(conteudo)
     
-    print(f"\n✅ Arquivo criado: {nome}")
-    print("\n📋 INSTRUÇÕES:")
+    print(f"\n Arquivo criado: {nome}")
+    print("\n INSTRUÇÕES:")
     print("1. Renomeie o arquivo apagando .bat")
     print("2. Agora ele será: documento_importante.pdf")
     print("3. Dê duplo clique para testar!")
@@ -138,7 +138,7 @@ def main():
     os.system('cls' if os.name == 'nt' else 'clear')
     
     print("="*70)
-    print(" 🦠 CRIADOR DE PDF FALSO - VERSÃO FINAL 🦠".center(70))
+    print("  CRIADOR DE PDF FALSO - VERSÃO FINAL ".center(70))
     print("="*70)
     
     print("""
@@ -149,16 +149,16 @@ def main():
     """)
     
     print("\nEscolha o tipo de arquivo:")
-    print("1 - 🔥 EXECUTÁVEL PROFISSIONAL (.exe)")
+    print("1 -  EXECUTÁVEL PROFISSIONAL (.exe)")
     print("    • Precisa do PyInstaller (instala automático)")
     print("    • Abre janela pop-up (mais convincente)")
     print("    • Não mostra terminal preto")
-    print("\n2 - 📁 SIMPLES (.bat)")
+    print("\n2 -  SIMPLES (.bat)")
     print("    • Não precisa instalar nada")
     print("    • Mostra terminal preto")
     print("    • Rápido de criar")
     
-    opcao = input("\n👉 Escolha (1 ou 2): ")
+    opcao = input("\n Escolha (1 ou 2): ")
     
     if opcao == "1":
         criar_exe_falso()
@@ -169,4 +169,5 @@ def main():
     input("PRESSIONE ENTER PARA SAIR... ")
 
 if __name__ == "__main__":
+
     main()
