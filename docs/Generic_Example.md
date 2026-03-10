@@ -16,13 +16,13 @@ This project applies the Cyber Kill Chain model to analyze a phishing-based atta
 
 ## Attack Stages (Cyber Kill Chain Model)
 
-### Reconnaissance
+## Reconnaissance
 
-- Collection of publicly available information:
+## Collection of publicly available information:
   - Email addresses  
   - Organizational structure  
   - Service providers  
-- Sources may include:
+## Sources may include:
   - Social media  
   - Data leaks  
   - Automated harvesting tools  
@@ -31,7 +31,7 @@ This project applies the Cyber Kill Chain model to analyze a phishing-based atta
 
 ### Weaponization
 
-- Creation of the phishing artifact:
+## Creation of the phishing artifact:
   - Spoofed email template  
   - Fake authentication page  
   - Malicious or encoded attachment  
@@ -41,14 +41,13 @@ This project applies the Cyber Kill Chain model to analyze a phishing-based atta
 
 ### Delivery
 
-- Transmission of the phishing email to the victim.
-- Indicators of compromise:
+## Transmission of the phishing email to the victim. Indicators of compromise:
   - Suspicious or recently registered domains  
   - Sender/domain mismatches  
   - Encoded attachments  
   - Reputation-based alerts  
 
-- SOC monitoring focus:
+## SOC monitoring focus:
   - Email gateway logs  
   - Domain validation checks  
 
@@ -56,12 +55,12 @@ This project applies the Cyber Kill Chain model to analyze a phishing-based atta
 
 ### Exploitation
 
-- Victim interaction with malicious content:
+## Victim interaction with malicious content:
   - Clicking links  
   - Downloading attachments  
   - Submitting credentials  
 
-- Detection opportunities:
+## Detection opportunities:
   - Abnormal login attempts  
   - Access from unfamiliar IP addresses  
   - Logins outside behavioral patterns  
