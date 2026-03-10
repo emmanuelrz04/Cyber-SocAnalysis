@@ -68,32 +68,32 @@ A specific type of spyware that records everything typed on the keyboard. In thi
 
 Unlike other types of malware, worms can spread automatically across a network, infecting multiple computers without direct user interaction.
 
-# Como o malware se mantém no sistema
+# How Malware Maintains Persistence on the System
 
-Após infectar um dispositivo, muitos malwares tentam garantir persistência, ou seja, continuar ativos mesmo depois que o computador é reiniciado.
-Isso pode acontecer por meio de:
+After infecting a device, many malware variants attempt to ensure persistence, meaning they remain active even after the computer is restarted.
+This can be achieved through:
 
-- criação de processos ocultos no sistema
+- Creation of hidden system processes
 
-- modificação de arquivos do sistema operacional
+- Modification of operating system files
 
-- instalação de serviços automáticos
+- Installation of automatic services
 
-- alteração de configurações de inicialização
+- Alteration of startup configurations
+  
+# Communication with External Servers
 
-# Comunicação com servidores externos
+In many attacks, malware connects to servers controlled by the attacker, known as Command and Control (C2) servers. This communication enables the attacker to:
 
-Em muitos ataques, o malware se conecta a servidores controlados pelo invasor, conhecidos como servidores de comando e controle (C2). Essa comunicação permite que o atacante:
+- Send new commands to the malware
 
-- envie novos comandos para o malware
+- Receive stolen data from the system
 
-- receba dados roubados do sistema
+- Update the malicious software
 
-- atualize o software malicioso
-
-- utilize o computador infectado em redes de ataques coordenados
-
-Essas redes são chamadas de botnets, que podem ser usadas para ataques de negação de serviço (DDoS), envio de spam ou mineração ilegal de criptomoedas.
+- Utilize the infected computer in coordinated attack networks
+  
+These networks are called botnets, which can be employed for Distributed Denial of Service (DDoS) attacks, spam distribution, or illegal cryptocurrency mining.
 
 ---
 
