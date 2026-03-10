@@ -50,6 +50,16 @@ O objetivo é analisar essas técnicas em um **ambiente controlado e ético**, a
 - editor de ícones: Resource Hacker
 ```
 ---
+Project Output
+
+The project generates:
+
+    A simulated phishing email example
+    A disguised executable file example (for demonstration)
+    Supporting documentation analyzing the attack flow and technique
+
+
+---
 # Documentação Adicional
 
 Para uma análise técnica mais aprofundada, consulte:
