@@ -2,7 +2,7 @@
 
 ---
 
-## 📑 Índice
+## Índice
 
 - [Descrição do Projeto](#descrição-do-projeto)
 - [Objetivo do Projeto](#objetivo-do-projeto)
