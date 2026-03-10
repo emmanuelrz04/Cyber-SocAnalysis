@@ -50,7 +50,7 @@ O objetivo é analisar essas técnicas em um **ambiente controlado e ético**, a
 - editor de ícones: Resource Hacker
 ```
 ---
-# Resultado do projeto
+# Resultado do Projeto
 
 ## O projeto realiza:
 
