@@ -2,10 +2,12 @@
 ---
 ## Index
 - [Project Description](#project-description)
-- [Folder Structure](#folder-structure)  
 - [Project Objective](#project-objective)
-- [Technologies Used](#requirements)
-- [Authors](#Authors)
+- [Requirements](#requirements)
+- [Project Output](#project-output)
+- [Additional Documentation](#additional-documentation)
+- [Authors](#authors)
+- [Folder Structure](#folder-structure)
 ---
 # Project Description
 
