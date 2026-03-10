@@ -97,19 +97,17 @@ These networks are called botnets, which can be employed for Distributed Denial 
 
 ---
 
-# Casos reais famosos
+# Notable Real-World Cases
 
 ## WannaCry
 
-Um ransomware que explorou vulnerabilidades do Microsoft Windows para se espalhar automaticamente por redes corporativas.
-Resultado: centenas de milhares de computadores infectados globalmente.
+A ransomware that exploited vulnerabilities in Microsoft Windows to spread automatically across corporate networks.
+Outcome: hundreds of thousands of computers infected globally.
 
 ## Stuxnet
 
-Um malware sofisticado criado para sabotar equipamentos industriais em instalações nucleares no Irã. Foi um dos primeiros exemplos de arma cibernética capaz de causar danos físicos.
+A sophisticated malware designed to sabotage industrial equipment at nuclear facilities in Iran. It was one of the first examples of a cyberweapon capable of causing physical damage.
 
 ## NotPetya
 
-Um malware destrutivo que se espalhou rapidamente entre redes corporativas e causou bilhões em prejuízos.
-## SOC Perspective
-From a SOC (Blue Team) standpoint, these threats can be identified through log analysis, abnormal access patterns, user reports, and indicators of compromise.
+A destructive malware that spread rapidly across corporate networks and caused billions in damages.
