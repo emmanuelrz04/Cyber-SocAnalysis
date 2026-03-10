@@ -52,8 +52,8 @@ The project generates:
 
 For deeper technical analysis, see:
 
-- docs/Attack-chain.md
-- docs/Threat-Overview.md
+- docs/Real-world_Example.md
+- docs/Real-world_Example/
   
 ---
 # Folder Structure
