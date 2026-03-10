@@ -77,7 +77,7 @@ Interested in **defensive security, threat intelligence and secure system design
 ---
 # Folder Structure
 ```
-📂 Cyber Soc-Analysis/
+📂 Cyber-SocAnalysis/
 │
 ├── 📂 Docs/
 │   │
