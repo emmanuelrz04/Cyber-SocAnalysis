@@ -1,4 +1,4 @@
-# 🛡️ **Attack Chain Analysis – Phishing Scenario**
+#  **Attack Chain Analysis – Phishing Scenario**
 
 [![SOC](https://img.shields.io/badge/Focus-SOC-8A2BE2?style=flat-square)]()
 [![Kill Chain](https://img.shields.io/badge/Model-Cyber%20Kill%20Chain-FF4500?style=flat-square)]()
@@ -74,7 +74,7 @@ The attacker disguises a malicious file as a document that supposedly requires i
 
 # 📁 File Location (Project Structure)
 
-8bash
+```bash
 Cyber-SocAnalysis/
 │
 └── Docs/
@@ -83,19 +83,21 @@ Cyber-SocAnalysis/
         ├── email1.png
         ├── email2.png
         └── email3.png
+```
 
 ### Mapping
 
-8bash
+```bash
+
 Example 1 → Docs/Generic_Examples/email1.png  
 Example 2 → Docs/Generic_Examples/email2.png  
 Example 3 → Docs/Generic_Examples/email3.png  
-
+```
 ---
 
-# ⚠️ Common Threat Techniques
+#  Common Threat Techniques
 
-Phishing attacks commonly rely on several deception techniques combining **technical manipulation and social engineering**.
+|⚠️| Phishing attacks commonly rely on several deception techniques combining **technical manipulation and social engineering**.
 
 | Technique | Description |
 |---|---|
@@ -108,11 +110,11 @@ Urgent language | Psychological pressure |
 
 ---
 
-# 🧠 Attack Stages (Cyber Kill Chain Model)
+#  Attack Stages (Cyber Kill Chain Model)
 
 ---
 
-## 🔎 Reconnaissance
+##  Reconnaissance
 
 Attackers collect publicly available information about the target organization.
 
@@ -140,7 +142,7 @@ Reconnaissance is difficult to detect but may involve:
 
 ---
 
-## ⚙️ Weaponization
+##  Weaponization
 
 The attacker prepares the malicious artifact used in the phishing campaign.
 
@@ -163,7 +165,7 @@ encoded_payload_example_base64
 
 ---
 
-## 📤 Delivery
+##  Delivery
 
 The phishing artifact is delivered to the victim through email or other communication channels.
 
@@ -183,7 +185,7 @@ The phishing artifact is delivered to the victim through email or other communic
 
 ---
 
-## 💥 Exploitation
+##  Exploitation
 
 The exploitation phase begins when the victim interacts with the malicious content.
 
@@ -209,7 +211,7 @@ Security teams may detect:
 
 ---
 
-## 💻 Installation
+##  Installation
 
 If the attack involves malware, the attacker attempts to establish persistence within the system.
 
@@ -235,7 +237,7 @@ SOC teams typically monitor for:
 
 ---
 
-# 🚨 Indicators of Compromise (IOCs)
+#  Indicators of Compromise (IOCs)
 
 During investigation analysts may observe indicators such as:
 
@@ -250,7 +252,7 @@ These indicators allow analysts to **correlate events across multiple security s
 
 ---
 
-# 🛡 SOC Detection Strategy
+#  SOC Detection Strategy
 
 SOC analysts attempt to detect the attack at multiple stages.
 
@@ -266,7 +268,7 @@ Detection becomes more reliable when **multiple signals are correlated across sy
 
 ---
 
-# 🔐 Mitigation Strategies
+#  Mitigation Strategies
 
 Organizations can reduce phishing risk through multiple defensive measures.
 
@@ -281,7 +283,7 @@ Human awareness remains critical because phishing attacks frequently rely on **u
 
 ---
 
-# 📌 Conclusion
+#  Conclusion
 
 This generic analysis demonstrates how a phishing attack progresses through the **Cyber Kill Chain**.
 
