@@ -50,8 +50,14 @@ O objetivo é analisar essas técnicas em um **ambiente controlado e ético**, a
 - editor de ícones: Resource Hacker
 ```
 ---
+# Documentação Adicional
 
+Para uma análise técnica mais aprofundada, consulte:
 
+- docs/Real-world_Example.md
+- docs/Real-world_Example/
+  
+---
 <div align="center">
 
 # Autores
