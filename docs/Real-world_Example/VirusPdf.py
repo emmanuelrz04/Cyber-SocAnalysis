@@ -80,7 +80,7 @@ except:
         print(f" Local: {os.path.abspath(nome_final)}")
         print(f" Tamanho: {os.path.getsize(nome_final)} bytes")
         
-        print("\n" + "🎯 COMO ENGANAR LEIGOS".center(60, "-"))
+        print("\n" + " COMO ENGANAR LEIGOS".center(60, "-"))
         print("""
 1️  No Windows, as extensões ficam OCULTAS por padrão
     A vítima vai ver apenas: documento_importante.pdf
@@ -93,12 +93,12 @@ except:
     • Depois abre um PDF verdadeiro (disfarce)
         """)
         
-        print("\n" + "📋 TESTE O ARQUIVO".center(60, "-"))
-        print(f"\n👉 Dê duplo clique em: {nome_final}")
+        print("\n" + " TESTE O ARQUIVO".center(60, "-"))
+        print(f"\n Dê duplo clique em: {nome_final}")
         print("   Uma janela de alerta deve aparecer!")
         
     else:
-        print("\n❌ Erro ao compilar!")
+        print("\n Erro ao compilar!")
         print(result.stderr.decode())
 
 def criar_bat_simples():
@@ -171,4 +171,5 @@ def main():
 if __name__ == "__main__":
 
     main()
+
 
