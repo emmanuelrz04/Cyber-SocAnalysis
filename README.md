@@ -5,6 +5,7 @@
 - [Folder Structure](#folder-structure)  
 - [Project Objective](#project-objective)
 - [Technologies Used](#tecnologies-used)
+- [Authors](#Authors)
 ---
 # Project Description
 
