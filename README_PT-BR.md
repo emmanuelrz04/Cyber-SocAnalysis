@@ -23,7 +23,7 @@ Este projeto é uma **demonstração educacional sobre segurança digital**, cri
 - A importância de **verificar fontes antes de clicar em links ou abrir anexos**
 - Exemplos práticos de **engenharia social**
 
-> **AVISO:** ⚠️ Este projeto é **100% educacional** e **não contém malware real**. Todos os exemplos são **simulações controladas**.
+> **AVISO:** |⚠️| Este projeto é **100% educacional** e **não contém malware real**. Todos os exemplos são **simulações controladas**.
 
 ---
 
