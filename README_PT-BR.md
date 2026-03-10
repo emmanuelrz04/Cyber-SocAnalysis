@@ -59,11 +59,10 @@ A proposta é fornecer um **exemplo prático de análise de ataque**, útil para
 
 <div align="center">
 
-# Authors
+# Autores
 ## Emmanuel Ricardo Arajo
 
-Cybersecurity enthusiast focused on **SOC Analysis, phishing detection and attack chain modeling**.  
-Interested in **defensive security, threat intelligence and secure system design**.
+Entusiasta de cibersegurança, com foco em análise de SOC, detecção de phishing e modelagem de cadeias de ataque. Interessado em segurança defensiva, inteligência de ameaças e desenvolvimento de sistemas seguros.
 
 <br>
 
