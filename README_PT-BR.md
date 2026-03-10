@@ -79,7 +79,7 @@ Entusiasta de cibersegurança, com foco em análise de SOC, detecção de phishi
 # Estrutura de pastas:
 ```bash
 
-📂 Cyber Soc Analysis/
+📂 Cyber-SocAnalysis/
 │
 ├── 📂 Docs/
 │   │
