@@ -7,7 +7,6 @@
 - [Descrição do Projeto](#descrição-do-projeto)
 - [Objetivo do Projeto](#objetivo-do-projeto)
 - [Requisitos](#requisitos)
-- [Documentação Adicional](#documentação-adicional)
 - [Autores](#autores)
 - [Estrutura de Pastas](#estrutura-de-pastas)
 
