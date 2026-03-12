@@ -73,8 +73,6 @@ Para uma análise técnica mais aprofundada, consulte:
 # Autores
 ## Emmanuel Araujo
 
-Entusiasta de cibersegurança, com foco em análise de SOC, detecção de phishing e modelagem de cadeias de ataque. Interessado em segurança defensiva, inteligência de ameaças e desenvolvimento de sistemas seguros.
-
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/emmanuel-araujo-416203380)
@@ -82,7 +80,46 @@ Entusiasta de cibersegurança, com foco em análise de SOC, detecção de phishi
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:emmanuelricardo04@gmail.com)
 
 </div>
+<div align="center">
+
+## Francisco de Assis Lemos da Silva Junior
+
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/francisco-de-assis-808377218)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:franciscofut25@gmail.com)
+
+</div align="center">
+
+<div align="center">
   
+## Maria Eduarda Araujo de Azevedo 
+
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/francisco-de-assis-808377218)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:franciscofut25@gmail.com)
+
+</div>
+
+<div align="center">
+
+## Maxiliano Oliveira Silva 
+
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/francisco-de-assis-808377218)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:maxoliveira17@gmail.com)
+
+</div>
+  
+
 ---
 
 # Estrutura de pastas:
