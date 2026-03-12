@@ -71,7 +71,7 @@ Para uma análise técnica mais aprofundada, consulte:
 <div align="center">
 
 # Autores
-## Emmanuel Araujo
+## Emmanuel Ricardo Barros de Araujo
 
 <br>
 
