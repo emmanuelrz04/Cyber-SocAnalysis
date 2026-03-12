@@ -76,7 +76,6 @@ For deeper technical analysis, see:
 
 <div align="center">
 
-# Authors
 ## Francisco de Assis Lemos da Silva Junior
 
 
@@ -85,6 +84,32 @@ For deeper technical analysis, see:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/francisco-de-assis-808377218)
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:franciscofut25@gmail.com)
+
+</div>
+
+<div align="center">
+
+## Maria Eduarda Araujo de Azevedo 
+
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/francisco-de-assis-808377218)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:franciscofut25@gmail.com)
+
+</div>
+
+<div align="center">
+
+## Maxiliano Oliveira Silva 
+
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/francisco-de-assis-808377218)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:maxoliveira17@gmail.com)
 
 </div>
   
